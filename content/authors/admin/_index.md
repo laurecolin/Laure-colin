@@ -1,5 +1,4 @@
 ---
-title: Ms
 first_name: Laure
 last_name: Colin
 superuser: true
