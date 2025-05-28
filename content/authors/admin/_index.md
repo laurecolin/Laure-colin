@@ -45,10 +45,11 @@ education:
 
 ## About Me
 
-Laure Colin recently completed her PhD in Management Sciences. She is currently a postdoctoral researcher at the Management Research Center of École Polytechnique, as part of a project funded by the Interdisciplinary Center for Defense and Security Studies at Institut Polytechnique de Paris.
+bio: >
+  Laure Colin recently completed her PhD in Management Sciences. She is currently a postdoctoral researcher at the Management Research Center of École Polytechnique, as part of a project funded by the Interdisciplinary Center for Defense and Security Studies at Institut Polytechnique de Paris.
 
-Her research focuses on innovation management in the defense sector, with particular attention to the role of institutions responsible for innovation governance, such as the French Defense Innovation Agency and the U.S. Defense Innovation Unit. She also examines how innovation projects are evaluated, and how external actors—especially startups—manage to integrate into defense-related innovation networks.
+  Her research focuses on innovation management in the defense sector, with particular attention to the role of institutions responsible for innovation governance, such as the French Defense Innovation Agency and the U.S. Defense Innovation Unit. She also examines how innovation projects are evaluated, and how external actors—especially startups—manage to integrate into defense-related innovation networks.
 
-Currently, she is expanding her work through international comparisons of innovation models in the defense sector, and exploring cross-sectoral parallels, particularly with the healthcare industry.
+  Currently, she is expanding her work through international comparisons of innovation models in the defense sector, and exploring cross-sectoral parallels, particularly with the healthcare industry.
 
 ---
