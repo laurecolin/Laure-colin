@@ -50,3 +50,5 @@ Laure Colin recently completed her PhD in Management Sciences. She is currently 
 Her research focuses on innovation management in the defense sector, with particular attention to the role of institutions responsible for innovation governance, such as the French Defense Innovation Agency and the U.S. Defense Innovation Unit. She also examines how innovation projects are evaluated, and how external actors—especially startups—manage to integrate into defense-related innovation networks.
 
 Currently, she is expanding her work through international comparisons of innovation models in the defense sector, and exploring cross-sectoral parallels, particularly with the healthcare industry.
+
+---
