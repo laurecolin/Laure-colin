@@ -26,7 +26,7 @@ profiles:
     url: 'laure.colin@polytechnique.edu'
     label: E-mail Me
   - icon: brands/linkedin
-    url: 'https://www.linkedin.com/in/laurecolin3/'
+    url: https://www.linkedin.com/in/laurecolin3/
   - icon: academicons/google-scholar
     url: 'https://scholar.google.com/citations?user=TvD_zKcAAAAJ&hl=fr'
 
